@@ -59,11 +59,11 @@
       "title": "Tileblush",
       "decription": "Tile Blush is a gallery specialized in contemporary art. Based on Miami, FL. I designed the website to match the modern style of the hosted expositions. The site hosts exposition's information, artist's details and contact information.",
       "images": [
-        "https://cdn.jsdelivr.net/bringmethecode/projects/blob/master/images/tileblush1.png",
-        "https://cdn.jsdelivr.net/bringmethecode/projects/blob/master/images/tileblush2.png",
-        "https://cdn.jsdelivr.net/bringmethecode/projects/blob/master/images/tileblush3.png",
-        "https://cdn.jsdelivr.net/bringmethecode/projects/blob/master/images/tileblush4.png",
-        "https://cdn.jsdelivr.net/bringmethecode/projects/blob/master/images/tileblush5.png"
+        "https://storage.googleapis.com/ansky-project-images/tileblush1.png",
+        "https://storage.googleapis.com/ansky-project-images/tileblush2.png",
+        "https://storage.googleapis.com/ansky-project-images/tileblush3.png",
+        "https://storage.googleapis.com/ansky-project-images/tileblush4.png",
+        "https://storage.googleapis.com/ansky-project-images/tileblush5.png"
       ]
     }
   ]
