@@ -54,9 +54,9 @@
     },
     {
       "id": 5,
-      "client": "Tile Blush",
+      "client": "tileblush.com",
       "technology": "Wordpress, php, css",
-      "title": "Tileblush",
+      "title": "Tile Blush",
       "decription": "Tile Blush is a gallery specialized in contemporary art. Based on Miami, FL. I designed the website to match the modern style of the hosted expositions. The site hosts exposition's information, artist's details and contact information.",
       "images": [
         "https://storage.googleapis.com/ansky-project-images/tileblush1.png",
