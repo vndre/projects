@@ -54,93 +54,16 @@
     },
     {
       "id": 5,
-      "client": "cl2",
-      "technology": "React Native",
-      "title": "Schiwlzet",
-      "decription": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
+      "client": "Tile Blush",
+      "technology": "Wordpress, php, css",
+      "title": "Tileblush",
+      "decription": "Tile Blush is a gallery specialized in contemporary art. Based on Miami, FL. I designed the website to match the modern style of the hosted expositions. The site hosts exposition's information, artist's details and contact information.",
       "images": [
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300"
-      ]
-    },
-    {
-      "id": 6,
-      "client": "cl2",
-      "technology": "React Native",
-      "title": "Schiwlzet",
-      "decription": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
-      "images": [
-        "https://placekitten.com/g/700/600",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300"
-      ]
-    },
-    {
-      "id": 7,
-      "client": "cl2",
-      "technology": "React Native",
-      "title": "Schiwlzet",
-      "decription": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
-      "images": [
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300"
-      ]
-    },
-    {
-      "id": 8,
-      "client": "cl2",
-      "technology": "React Native",
-      "title": "Schiwlzet",
-      "decription": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
-      "images": [
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300"
-      ]
-    },
-    {
-      "id": 9,
-      "client": "cl2",
-      "technology": "React Native",
-      "title": "Schiwlzet",
-      "decription": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
-      "images": [
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300"
-      ]
-    },
-    {
-      "id": 10,
-      "client": "cl2",
-      "technology": "React Native",
-      "title": "Schiwlzet",
-      "decription": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
-      "images": [
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300"
-      ]
-    },
-    {
-      "id": 11,
-      "client": "cl2",
-      "technology": "React Native",
-      "title": "Schiwlzet",
-      "decription": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
-      "images": [
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300"
+        "https://cdn.jsdelivr.net/bringmethecode/projects/blob/master/images/tileblush1.png",
+        "https://cdn.jsdelivr.net/bringmethecode/projects/blob/master/images/tileblush2.png",
+        "https://cdn.jsdelivr.net/bringmethecode/projects/blob/master/images/tileblush3.png",
+        "https://cdn.jsdelivr.net/bringmethecode/projects/blob/master/images/tileblush4.png",
+        "https://cdn.jsdelivr.net/bringmethecode/projects/blob/master/images/tileblush5.png"
       ]
     }
   ]
