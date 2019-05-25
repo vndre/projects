@@ -4,22 +4,23 @@
       "id": 1,
       "client": "cl1",
       "technology": "ReactJS",
-      "title": "W 1",
+      "title": "Native App X",
       "description": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
       "images": [
         "https://placekitten.com/g/1500/1200",
-        "https://placekitten.com/g/1600/1300",
-        "https://placekitten.com/g/1555/1250"
+        "https://placekitten.com/g/400/300",
+        "https://placekitten.com/g/400/300",
+        "https://placekitten.com/g/400/300"
       ]
     },
     {
       "id": 2,
       "client": "cl2",
       "technology": "React Native",
-      "title": "W 2",
+      "title": "Schiwlzet",
       "description": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
       "images": [
-        "https://placekitten.com/g/1300/1000",
+        "https://placekitten.com/g/1600/1300",
         "https://placekitten.com/g/400/300",
         "https://placekitten.com/g/400/300",
         "https://placekitten.com/g/400/300"
@@ -29,7 +30,7 @@
       "id": 3,
       "client": "cl2",
       "technology": "React Native",
-      "title": "W 3",
+      "title": "Schiwlzet",
       "description": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
       "images": [
         "https://placekitten.com/g/1550/1250",
@@ -40,9 +41,9 @@
     },
     {
       "id": 4,
-      "client": "yes",
+      "client": "cl2",
       "technology": "React Native",
-      "title": "W 4",
+      "title": "Schiwlzet",
       "description": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
       "images": [
         "https://placekitten.com/g/1650/1350",
@@ -55,14 +56,14 @@
       "id": 5,
       "client": "tileblush.com",
       "technology": "Wordpress, PHP5, JS, CSS",
-      "title": "Tile Blush W 4",
+      "title": "Tile Blush",
       "description": "Tile Blush is a gallery specialized in contemporary art. Based on Miami, FL. I designed the website to match the modern and minimalist style of the hosted expositions while keeping the important information at display.",
       "images": [
-        "https://placekitten.com/g/1650/1350",
-        "https://placekitten.com/g/1660/1360",
-        "https://placekitten.com/g/1670/1370",
-        "https://placekitten.com/g/1680/1380",
-        "https://placekitten.com/g/1690/1390"
+        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush1.png",
+        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush2.png",
+        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush3.png",
+        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush4.png",
+        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush5.png"
 
       ],
       "subtitles": {
