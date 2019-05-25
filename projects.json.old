@@ -8,8 +8,9 @@
       "description": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
       "images": [
         "https://placekitten.com/g/1500/1200",
-        "https://placekitten.com/g/1600/1300",
-        "https://placekitten.com/g/1555/1250"
+        "https://placekitten.com/g/400/300",
+        "https://placekitten.com/g/400/300",
+        "https://placekitten.com/g/400/300"
       ]
     },
     {
@@ -58,11 +59,11 @@
       "title": "Tile Blush",
       "description": "Tile Blush is a gallery specialized in contemporary art. Based on Miami, FL. I designed the website to match the modern and minimalist style of the hosted expositions while keeping the important information at display.",
       "images": [
-        "https://placekitten.com/g/1650/1350",
-        "https://placekitten.com/g/1660/1360",
-        "https://placekitten.com/g/1670/1370",
-        "https://placekitten.com/g/1680/1380",
-        "https://placekitten.com/g/1690/1390"
+        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush1.png",
+        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush2.png",
+        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush3.png",
+        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush4.png",
+        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush5.png"
 
       ],
       "subtitles": {
