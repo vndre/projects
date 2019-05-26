@@ -3,6 +3,7 @@
     {
       "id": 1,
       "client": "cl1",
+      "clientURL": "google.com",
       "technology": "ReactJS",
       "title": "Native App X",
       "description": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
