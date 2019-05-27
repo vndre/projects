@@ -55,7 +55,8 @@
     },
     {
       "id": 5,
-      "client": "tileblush.com",
+      "client": "tileblush",
+      "clientURL": "tileblush.com",
       "technology": "Wordpress, PHP5, JS, CSS",
       "title": "Tile Blush",
       "description": "Tile Blush is a gallery specialized in contemporary art. Based on Miami, FL. I designed the website to match the modern and minimalist style of the hosted expositions while keeping the important information at display.",
