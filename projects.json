@@ -2,72 +2,29 @@
   "projects": [
     {
       "id": 1,
-      "client": "cl1",
+      "client": "Joe Bananas",
       "clientURL": "google.com",
       "technology": "ReactJS",
-      "title": "Native App X",
+      "title": "ubiquitous",
       "description": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
-      "images": [
-        "https://placekitten.com/g/1500/1200",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300"
-      ]
+      "imagePath": "https://raw.githubusercontent.com/anskydev/projects/master/images/project1/" 
     },
     {
       "id": 2,
-      "client": "cl2",
+      "client": "Joe Piney",
       "technology": "React Native",
-      "title": "Schiwlzet",
+      "title": "oatmeal",
       "description": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
-      "images": [
-        "https://placekitten.com/g/1600/1300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300"
-      ]
+      "imagePath": "https://raw.githubusercontent.com/anskydev/projects/master/images/project2/"
     },
     {
       "id": 3,
-      "client": "cl2",
-      "technology": "React Native",
-      "title": "Schiwlzet",
-      "description": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
-      "images": [
-        "https://placekitten.com/g/1550/1250",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300"
-      ]
-    },
-    {
-      "id": 4,
-      "client": "cl2",
-      "technology": "React Native",
-      "title": "Schiwlzet",
-      "description": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
-      "images": [
-        "https://placekitten.com/g/1650/1350",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300",
-        "https://placekitten.com/g/400/300"
-      ]
-    },
-    {
-      "id": 5,
       "client": "tileblush",
       "clientURL": "tileblush.com",
       "technology": "Wordpress, PHP5, JS, CSS",
       "title": "Tile Blush",
       "description": "Tile Blush is a gallery specialized in contemporary art. Based on Miami, FL. I designed the website to match the modern and minimalist style of the hosted expositions while keeping the important information at display.",
-      "images": [
-        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush1.png",
-        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush2.png",
-        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush3.png",
-        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush4.png",
-        "https://storage.googleapis.com/ansket/projects/tileblush/tileblush5.png"
-
-      ],
+      "imagePath": "https://raw.githubusercontent.com/anskydev/projects/master/images/tileblush/",
       "subtitles": {
         "1": "Exhibitons",
         "2": "Artists",
