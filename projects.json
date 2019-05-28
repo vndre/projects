@@ -7,7 +7,7 @@
       "technology": "ReactJS",
       "title": "ubiquitous",
       "description": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
-      "imagePath": "https://raw.githubusercontent.com/anskydev/projects/master/images/project1/",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/anksy-sh.appspot.com/o/images%2Fproject1%2F",
       "totalImages": 5
     },
     {
@@ -16,7 +16,7 @@
       "technology": "React Native",
       "title": "oatmeal",
       "description": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
-      "imagePath": "https://raw.githubusercontent.com/anskydev/projects/master/images/project2/",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/anksy-sh.appspot.com/o/images%2Fproject2%2F",
       "totalImages": 5
     },
     {
@@ -26,7 +26,7 @@
       "technology": "Wordpress, PHP5, JS, CSS",
       "title": "Tile Blush",
       "description": "Tile Blush is a gallery specialized in contemporary art. Based on Miami, FL. I designed the website to match the modern and minimalist style of the hosted expositions while keeping the important information at display.",
-      "imagePath": "https://raw.githubusercontent.com/anskydev/projects/master/images/tileblush/",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/anksy-sh.appspot.com/o/images%2Ftileblush%2F",
       "totalImages": 5,
       "subtitles": {
         "1": "Exhibitons",
