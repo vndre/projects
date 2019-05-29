@@ -2,30 +2,40 @@
   "projects": [
     {
       "id": 1,
-      "client": "Joe Bananas",
-      "clientURL": "google.com",
-      "technology": "ReactJS",
-      "title": "ubiquitous",
-      "description": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
-      "imagePath": "https://firebasestorage.googleapis.com/v0/b/anksy-sh.appspot.com/o/images%2Fproject1%2F",
-      "totalImages": 5
+      "client": "Wordpress",
+      "technology": "PHP, JavaScript, HTML, CSS",
+      "title": "BOXD",
+      "description": "BODX is a wordpress theme designed for rebel freelancers.",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/anksy-sh.appspot.com/o/images%2Fboxd%2F",
+      "totalImages": 4,
+      "subtitles": {
+        "1": "About Page",
+        "2": "Gallery Grid",
+        "3": "Service Listing"
+      }
     },
     {
       "id": 2,
-      "client": "Joe Piney",
-      "technology": "React Native",
-      "title": "oatmeal",
-      "description": "Native app X is a native App designed to do something while it is still an App, ok, I just made this up",
-      "imagePath": "https://firebasestorage.googleapis.com/v0/b/anksy-sh.appspot.com/o/images%2Fproject2%2F",
-      "totalImages": 5
+      "client": "Intellisys",
+      "technology": "HTML, JavaScript, CSS",
+      "title": "Intellisys",
+      "clientURL": "intellisys.cloud",
+      "description": "Intellisys focuses on creating smart hardware and software for the IoT",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/anksy-sh.appspot.com/o/images%2Fintellisys%2F",
+      "totalImages": 3,
+      "subtitles": {
+        "0": "Logo",
+        "1": "Desktop",
+        "2": "Responsive"
+      }
     },
     {
       "id": 3,
-      "client": "tileblush",
+      "client": "Gusto Studio LLC",
       "clientURL": "tileblush.com",
-      "technology": "Wordpress, PHP5, JS, CSS",
+      "technology": "PHP, Wordpress, JaveScript, CSS",
       "title": "Tile Blush",
-      "description": "Tile Blush is a gallery specialized in contemporary art. Based on Miami, FL. I designed the website to match the modern and minimalist style of the hosted expositions while keeping the important information at display.",
+      "description": "Tile Blush is a gallery specialized in contemporary art based on Miami, FL. I designed the website to match the modern and minimalist style of the hosted expositions while keeping the important information at display.",
       "imagePath": "https://firebasestorage.googleapis.com/v0/b/anksy-sh.appspot.com/o/images%2Ftileblush%2F",
       "totalImages": 5,
       "subtitles": {
@@ -33,6 +43,22 @@
         "2": "Artists",
         "3": "Artist Exhibitions",
         "4": "Exhibiton Details"
+      }
+    },
+    {
+      "id": 4,
+      "client": "America Voice LLC",
+      "clientURL": "americavoice.com",
+      "technology": "React Native, Sass, JavaScript, Expo, Braintree",
+      "title": "America Voice App",
+      "description": "America Voice App lets its users send top ups around the globe",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/anksy-sh.appspot.com/o/images%2Famericavoice%2F",
+      "totalImages": 5,
+      "subtitles": {
+        "1": "Landing",
+        "2": "Sign In & Countries List",
+        "3": "Amount Slider & Chekout",
+        "4": "User Settings"
       }
     }
   ]
